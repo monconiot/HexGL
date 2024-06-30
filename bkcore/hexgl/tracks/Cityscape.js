@@ -62,7 +62,7 @@ bkcore.hexgl.tracks.Cityscape = {
 					'bonus.base.diffuse'				: "textures/bonus/base/diffuse.jpg"
 				},
 				texturesCube: {
-					'skybox.dawnclouds'					: "textures/skybox/dawnclouds/%1.jpg"
+					'skybox.dawnclouds'					: "textures/skybox/dawnclouds/%1.png"
 				},
 				geometries: {
 					'bonus.base'						: "geometries/bonus/base/base.js",
@@ -146,7 +146,7 @@ bkcore.hexgl.tracks.Cityscape = {
 					'bonus.base.specular'				: "textures.full/bonus/base/specular.jpg"
 				},
 				texturesCube: {
-					'skybox.dawnclouds'					: "textures.full/skybox/dawnclouds/%1.jpg"
+					'skybox.dawnclouds'					: "textures.full/skybox/sky_city/%1.png"
 				},
 				geometries: {
 					'bonus.base'						: "geometries/bonus/base/base.js",
